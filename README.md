@@ -1,2 +1,2 @@
 # turbulent-octo-quack
-LP1 Jogo da Forca
+ Jogo da Forca
